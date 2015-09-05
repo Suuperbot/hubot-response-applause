@@ -1,0 +1,23 @@
+{
+  "match": "\\b(sarcastic applause|sarcastic clap)\\b",
+  "listener": "hear",
+  "response": [
+    "http://i.imgur.com/2QXgcqP.gif",
+    "http://i.imgur.com/Yih2Lcg.gif",
+    "http://i.imgur.com/un3MuET.gif",
+    "http://i.imgur.com/H2wPc1d.gif",
+    "http://i.imgur.com/uOtALBE.gif",
+    "http://i.imgur.com/nmqrdiF.gif",
+    "http://i.imgur.com/GgxOUGt.gif",
+    "http://i.imgur.com/wyTQMD6.gif",
+    "http://i.imgur.com/GYRGOy6.gif",
+    "http://i.imgur.com/ojIsLUA.gif",
+    "http://i.imgur.com/bRetADl.gif",
+    "http://i.imgur.com/814mkEC.gif",
+    "http://i.imgur.com/uYryMyr.gif",
+    "http://i.imgur.com/YfrikPR.gif",
+    "http://i.imgur.com/sBEFqYR.gif",
+    "http://i.imgur.com/Sx8iAS8.gif",
+    "http://i.imgur.com/5zKXz.gif"
+  ]
+}
