@@ -17,7 +17,7 @@ module.exports = [
 ```
 
 #### Want to add more images?
-In your `applause.js` file, just push whatever you want to the responses array.
+In your `applause.js` file, just push whatever you want to the `response` array.
 
 ```
 // Import the module you want
