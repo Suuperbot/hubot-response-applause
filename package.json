@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "description": "Hubot clapping!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/michaeljacobdavis/hubot-response-applause.git"
