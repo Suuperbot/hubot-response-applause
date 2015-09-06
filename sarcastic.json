@@ -1,5 +1,6 @@
 {
   "match": "\\b(sarcastic applause|sarcastic clap)\\b",
+  "description": "sarcastic applause|clap - Get sarcastic applause",
   "listener": "hear",
   "response": [
     "http://i.imgur.com/2QXgcqP.gif",

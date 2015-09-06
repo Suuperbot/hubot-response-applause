@@ -1,4 +1,4 @@
-[hubot-response](https://github.com/michaeljacobdavis/hubot-response) version of [hubot-applause](https://github.com/github/hubot-scripts/blob/master/src/scripts/applause.coffee).
+[hubot-response](https://github.com/michaeljacobdavis/hubot-response) version of [hubot-applause](https://github.com/github/hubot-scripts/blob/master/src/scripts/applause.coffee). All credit goes to the original author [Josh French](https://github.com/joshfrench).
 
 #### How to use
 Make sure you have [hubot-response](https://github.com/michaeljacobdavis/hubot-response) installed in your hubot directory.
